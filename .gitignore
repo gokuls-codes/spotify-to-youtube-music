@@ -8,3 +8,5 @@ oauth.json
 /initial-codes
 
 __init__.py
+
+.cache
