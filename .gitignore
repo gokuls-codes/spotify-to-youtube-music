@@ -2,3 +2,9 @@
 keys.py
 
 oauth.json
+
+/.vscode
+
+/initial-codes
+
+__init__.py
